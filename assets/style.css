@@ -68,20 +68,10 @@ p {
 
  }
 
-li{
-    padding-left:10px;
-}
-
-li + li {
-    margin-top: 8px;
-}
-
-ol, ul{
-    margin-left:20px;
-}
-
-.tempo li::marker {
-             
+li {
+    padding-left: 10px;
+    color: #5f564d;
+    line-height: 150%;
 }
 
 
