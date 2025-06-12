@@ -111,3 +111,38 @@ hr {
     font-weight: 700;
 }
 
+
+.informacos p {
+    margin-bottom: 24px;
+}
+
+table{
+    width: 100%;
+}
+
+th, td {
+    border-bottom: 1px solid #e3ddd7
+}
+
+tr {
+    display: flex;
+           
+}
+
+th{
+    text-align: left;
+    padding-left: 32px;
+    font-weight: 400;
+    color: #5f564d;
+    line-height: 150%;
+}
+
+td {
+    padding-left: 16px;
+    font-weight: 700;
+    color:#854632;
+    line-height: 150%;
+
+}
+
+    
